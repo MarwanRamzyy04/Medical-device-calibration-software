@@ -8,7 +8,7 @@ This project evaluates and compares the performance of **FLIR** and **ICI** ther
 
 - **`Medical_device_calibration_software.ipynb`**: The main Jupyter notebook that contains the full implementation of the project, including data loading, model training, and performance evaluation.
   
-- **`data/`**: Directory containing sample data files used for training and testing the models.
+- **`Data/`**: Directory containing sample data files used for training and testing the models.
 
 ## Key Features
 - **Data Preprocessing**: Handles missing values and prepares data for analysis.
